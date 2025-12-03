@@ -8,3 +8,4 @@ This repository demonstrates a DevOps workflow using Linux, Docker, CI/CD, Nomad
 ## Docker 
 docker build -t hello-devops . 
 docker run --rm hello-devops 
+ 
